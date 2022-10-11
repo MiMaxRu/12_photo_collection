@@ -1,0 +1,142 @@
+[
+    {
+     "category": 2,
+     "name": "Пейзажи",
+     "photos": [
+      "https://img1.fonwall.ru/o/ra/seascape-sea-landscape-nature.jpeg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/cv/scenery-monochrome-fog-trees.jpeg?route=mid&h=750",
+      "https://img1.fonwall.ru/o/hn/seascape-sunrise-sky-scenery.jpeg?route=mid&h=750",
+      "https://img1.fonwall.ru/o/pz/plyazh-spokoynye-oblaka.jpeg?route=mid&h=750"
+     ]
+    },
+    {
+     "category": 1,
+     "name": "Архитектура",
+     "photos": [
+      "https://img1.fonwall.ru/o/fl/architecture-building-statue-facade.jpeg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/cf/architecture-building-palace-museum.jpeg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/ld/architecture-structure-city-paris.jpeg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/co/architecture-wallpaper-germany-neuschwanstein-castle-landscapes.jpeg?route=mid&h=750"
+     ]
+    },
+    {
+     "category": 3,
+     "name": "Маяк",
+     "photos": [
+      "https://img.fonwall.ru/o/4d/mayak-fare-dyu-peti-mina-franciya-more-mayak.jpg?route=mid&h=750",
+      "https://img1.fonwall.ru/o/nb/nature-england-lighthouses-waves.jpeg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/ip/lighthouse-nature-sunset-landscapes.jpeg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/hw/zakat-more-mayak-peyzazh.jpg?route=thumb&h=350"
+     ]
+    },
+    {
+     "category": 3,
+     "name": "Авто",
+     "photos": [
+      "https://img2.fonwall.ru/o/ab/970-plymouth-duster-1970-plymouth-duster-440-2018-blue-ridge-community-college-car-show.jpg?route=thumb&h=350",
+      "https://img2.fonwall.ru/o/xu/yuzhnaya-karolina-soedinennye-shtaty-ssha.jpg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/sc/porsche-gt3-porsche-gt3.jpg?route=thumb&h=350",
+      "https://img2.fonwall.ru/o/ef/geoteg-severnaya-karolina-soedinennye-shtaty.jpg?route=thumb&h=350"
+     ]
+    },
+    {
+     "category": 3,
+     "name": "Корабль",
+     "photos": [
+      "https://img2.fonwall.ru/o/sx/boat-boats-ocean-sailing.jpeg?route=thumb&h=350",
+      "https://img2.fonwall.ru/o/sx/boat-boats-ocean-sailing.jpeg?route=thumb&h=350",
+      "https://img.fonwall.ru/o/3a/parusnik-port-prichal-korabl.jpg?route=thumb&h=350",
+      "https://img.fonwall.ru/o/88/korabl_yahta_more_okean_parusa_88.jpg?route=thumb&h=350"
+     ]
+    },
+    {
+     "category": 4,
+     "name": "Apple",
+     "photos": [
+      "https://img2.fonwall.ru/o/hr/android-vs-apple-battle-robots.jpeg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/vx/iphone-computer-smartphone-macbook.jpeg?route=thumb&h=350",
+      "https://img.fonwall.ru/o/94/ayfon_telefon_korobka_gadjet_tehnologii_63.jpg?route=thumb&h=350",
+      "https://img.fonwall.ru/o/98/ayfon_telefon_modnyiy_novyiy_sensornyiy_59.jpg?route=thumb&h=350"
+     ]
+    },
+    {
+     "category": 2,
+     "name": "Лампа",
+     "photos": [
+      "https://img1.fonwall.ru/o/af/lights-old-lantern-lamp.jpeg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/bt/light-white-glass-lantern.jpeg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/li/lamp-electricity-light.jpg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/qk/nature-outdoor-branch-bird.jpeg?route=thumb&h=350"
+     ]
+    },
+    {
+     "category": 2,
+     "name": "Паровоз",
+     "photos": [
+      "https://img.fonwall.ru/o/70/doroga-parovoz-nebo-planeta.jpg?route=thumb&h=350",
+      "https://img2.fonwall.ru/o/ws/engine-locomotive-railroad-tracks.jpeg?route=thumb&h=350",
+      "https://img.fonwall.ru/o/58/paravoz-vagonyi-dyim-jeleznaya.jpg?route=thumb&h=350",
+      "https://img.fonwall.ru/o/6/parovoz-truba-dyim-vagonyi.jpg?route=thumb&h=350"
+     ]
+    },
+    {
+     "category": 1,
+     "name": "Море",
+     "photos": [
+      "https://img1.fonwall.ru/o/fu/winter-nature-sea-beach.jpeg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/uj/beach-sea-coast-sand-wdic.jpeg?route=thumb&h=350",
+      "https://img.fonwall.ru/o/72/morskoy-peyzazh-severnoe-more-nortumberlend-severo-vostochnaya-angliya.jpg?route=thumb&h=350",
+      "https://img.fonwall.ru/o/x5/morskoy-peyzazh-severnoe-more-nortumberlend-severo-vostochnaya-angliya-egzh.jpg?route=thumb&h=350"
+     ]
+    },
+    {
+     "category": 3,
+     "name": "Аниме",
+     "photos": [
+      "https://img1.fonwall.ru/o/wr/anime-girl-crescent-anime-games-black-hair.jpeg?route=thumb&h=350",
+      "https://img2.fonwall.ru/o/ax/charlotte-anime-nao-anime.jpg?route=thumb&h=350",
+      "https://img2.fonwall.ru/o/tg/anime-girl-blonde-smiling-glasses.jpeg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/kw/wallpaper-anime-girl-mask-long-hair-traditional-clothes.jpeg?route=thumb&h=350"
+     ]
+    },
+    {
+     "category": 3,
+     "name": "Зажигалка",
+     "photos": [
+      "https://img.fonwall.ru/o/vb/zippo-zazhigalka-raznocvetnoe-plamya.jpg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/sv/lighter-zippo-monochrome.jpeg?route=thumb&h=350",
+      "https://img.fonwall.ru/o/85/zagigalka-krishka-plamya-tsvetnoe.jpg?route=thumb&h=350",
+      "https://img.fonwall.ru/o/32/erer_4.jpg?route=thumb&h=350"
+     ]
+    },
+    {
+     "category": 3,
+     "name": "Гитара",
+     "photos": [
+      "https://img1.fonwall.ru/o/oz/music-guitar-acoustic-guitar-instrument-efer.jpeg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/wx/guitar-instrument-music-close.jpeg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/kr/guitar-instrument-music-strings.jpeg?route=thumb&h=350",
+      "https://img.fonwall.ru/o/kt/raznotsvetnie-gitari.JPG?route=thumb&h=350"
+     ]
+    },
+    {
+     "category": 4,
+     "name": "Свеча",
+     "photos": [
+      "https://img.fonwall.ru/o/6d/rozhdestvo-fon-dizayn-elementy-pbhn.jpg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/ho/light-boke-atmosphere-decoration.jpeg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/se/women-model-candles.jpg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/ft/candles-zen-mood-spa.jpeg?route=thumb&h=350"
+     ]
+    },
+    {
+     "category": 2,
+     "name": "Киберпанк",
+     "photos": [
+      "https://img1.fonwall.ru/o/bq/digital-art-science-fiction-city.jpg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/pv/artist-artwork-artstation-abstraction-hdot.jpeg?route=thumb&h=350",
+      "https://img1.fonwall.ru/o/gu/cyberpunk-artist-artwork-digital-art-sdfy.jpeg?route=thumb&h=350",
+      "https://img.fonwall.ru/o/z1/cyberpunk-city.jpg?route=thumb&h=350"
+     ]
+    }
+   ]
